@@ -8,8 +8,9 @@
    1. [VPC 1](#vpc-1)
    2. [VPC 1 és VPC 2 + Peering](#vpc-1-és-vpc-2--peering)
    3. [VPN (Point to site)](#vpn-point-to-site)
-4. [Kérdés vagy észrevétel](#kérdés-vagy-észrevétel)
-5. [Jogok és felelősség](#jogok-és-felelősség)
+4. [Hasznos linkek](#hasznos-linkek)
+5. [Kérdés vagy észrevétel](#kérdés-vagy-észrevétel)
+6. [Jogok és felelősség](#jogok-és-felelősség)
 
 ## Képzés információ
 
@@ -52,7 +53,7 @@ Itt találod a képzéshez használt kódokat és segédanyagokat.
    2. [24 - Lambda, S3 és SNS integráció (bemutató)](https://github.com/cloudsteak/trn-aws-common/blob/main/serverless.md#eseményvezérelt-alkalmazás-s3---lambda---sns)
 8. Monitoring
    1. 25 - CloudWatch és Amazon SNS
-   2. 26 - EC2 monitorozás és riasztás (bemutató)
+   2. [26 - EC2 monitorozás és riasztás (bemutató)](https://learn.microsoft.com/en-us/sysinternals/downloads/cpustres)
 9. Mentési megoldások
    1. 27 - Mentési megoldások
    2. 28 - EC2 mentése (bemutató)
@@ -70,6 +71,21 @@ Itt találod a képzéshez használt kódokat és segédanyagokat.
 ### VPN (Point to site)
 
 ![VPN](./kepek/aws-point-to-site-vpn.png)
+
+## Hasznos linkek
+
+- AWS-hez kpcsolódó példák és leírások: https://github.com/cloudsteak/trn-aws-common
+- Szótár: https://link.cloudmentor.hu/cloudszotar
+- AWS szójegyzék: https://docs.aws.amazon.com/general/latest/gr/glos-chap.html
+- Felhők összehasonlítása: https://lucid.app/lucidchart/13fde51a-271f-456a-b2b3-ef6869f9ee6a/view?page=GiFLkXTb1E1J
+- Ár kalkulátor: https://calculator.aws
+- Reserved instances árak összehasonlítása: https://instances.vantage.sh
+- Szolgáltatás korlátok: https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
+- AWS dokumentáció: https://aws.amazon.com
+- AWS CLI: https://aws.amazon.com/cli/
+- Elastic Beanstalk CLI: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
+- EKS CTL: https://eksctl.io
+- CPU Stress: https://learn.microsoft.com/en-us/sysinternals/downloads/cpustres
 
 ## Kérdés vagy észrevétel
 
