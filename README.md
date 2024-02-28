@@ -16,7 +16,7 @@
 
 ## Képzés információ
 
-edezd fel az AWS cloud világának mélységeit a mi haladó szintű videós képzésünkkel! Ha már ismered az AWS alapjait és szeretnél mélyebben elmerülni az előfizetés létrehozásának és beállításának, a hálózati architektúrák (VPC, Peering, VPN, DNS) finomságaiba, a virtuális gépek (méretezés, skálázás, terheléselosztás) művészetébe, akkor ez a képzés neked szól.
+Fedezd fel az AWS cloud világának mélységeit a mi haladó szintű videós képzésünkkel! Ha már ismered az AWS alapjait és szeretnél mélyebben elmerülni az előfizetés létrehozásának és beállításának, a hálózati architektúrák (VPC, Peering, VPN, DNS) finomságaiba, a virtuális gépek (méretezés, skálázás, terheléselosztás) művészetébe, akkor ez a képzés neked szól.
 
 Jelentkezni: https://mentorklub.gerillaoneletrajz.hu/tartalomjegyzek
 
